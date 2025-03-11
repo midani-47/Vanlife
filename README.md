@@ -79,8 +79,7 @@ The platform caters to a broad audience within the vanlife community:
 The platform's development will involve utilizing various external libraries:
 
 * **Frontend Design:** Bootstrap for creating a user-friendly and responsive user interface.
-* **Backend Development:** Flask or Django (depending on feasibility and learning opportunities) for handling server-side logic and communication.
-* **API and Social Integration:** Implementation inspired by previous assignments and potential integration of social media APIs for broader reach.
+* **Backend Development:** Django for handling server-side logic and communication.
 
 ## Overview
 
